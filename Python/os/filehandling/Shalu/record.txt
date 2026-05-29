@@ -1,0 +1,6 @@
+----- User Record -----
+First Name : Shalu
+Last Name  : Pandey
+Address    : Ricco
+Gender     : Female
+DOB        : 19/07/2004
